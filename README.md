@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on finishing my degree in BSc Information and Knowlege Systems.
+- 🌱 I’m currently learning Ionic Angular, Spring and Maven.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/james-hulett-255748177)
