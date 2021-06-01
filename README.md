@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on completing my undergraduate degree in BSc Information and Knowlege Systems.
-- 🌱 I’m currently learning Ionic Angular, Spring and Maven.
+- 🌱 I’m currently learning Ionic Angular, Spring Boot and .NET Core.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/james-hulett-255748177)
